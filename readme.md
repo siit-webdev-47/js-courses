@@ -27,7 +27,7 @@ The repository contains the source code for the JS courses and the presented con
 ### Code example
 A program that gets 2 values from the user and displays the sum and the difference of the iven values.
 
-The source code: [course-01](#)
+The source code: [course-01](https://github.com/siit-webdev-47/js-courses/tree/main/course-01)
 
 ### Independent Homework
 Implement a program that calculates the body mass index of a person. 
