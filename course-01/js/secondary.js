@@ -1,0 +1,1 @@
+console.log('This message is logged from secondary.js');
