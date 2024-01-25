@@ -33,3 +33,6 @@ The source code: [course-01](https://github.com/siit-webdev-47/js-courses/tree/m
 Implement a program that calculates the body mass index of a person. 
 
 The formula for BMI is weight in kilograms divided by height in meters squared. If height has been measured in centimeters, divide by 100 to convert this to meters.
+
+
+## Course 02
