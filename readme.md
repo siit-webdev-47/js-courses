@@ -15,3 +15,9 @@ The repository contains the source code for the JS courses and the presented con
 1. Git & github
 2. The IF statement - a binary decisional control structure
 3. Variables scopes
+
+## Course 03
+[Contents](https://github.com/siit-webdev-47/js-courses/tree/main/course-03/readme.md)
+1. Git & github - working on a common project
+2. The modulo (%) operator
+3. Logical operator OR (||)
