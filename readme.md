@@ -29,3 +29,9 @@ The repository contains the source code for the JS courses and the presented con
 3. Unary operators in JavaScript
 4. Iterative control structures (while, for, do-while)
 5. Working with git branches
+
+## Course 05
+[Contents](https://github.com/siit-webdev-47/js-courses/tree/main/course-05/readme.md)
+1. Using iterative flow control strucutures for reading values in a program
+2. Arrays in JavaScript
+3. Implementing a program that allow the user to input a set of values and displays the ones greater than the average
