@@ -1,4 +1,4 @@
-# Course 04
+# Course 05
 
 ## Recap
 
@@ -6,7 +6,7 @@ Implementing a program that prompts the user for numeric values, until the _Canc
 
 The program displays in an alert the maximum of the values given by the user.
 
-CONCEPTS USED TO SOLVE THE PROBLEM
+#### CONCEPTS USED TO SOLVE THE PROBLEM
 
 - _**-Infinity**_, _**Infinity**_, _**NaN**_ values belonging to _**Number**_ data type
 
@@ -46,7 +46,7 @@ CONCEPTS USED TO SOLVE THE PROBLEM
 
 Implementing a program that displays the values greater than the average of the given values.
 
-SOLVING THE PROBLEM
+#### SOLVING THE PROBLEM
 
 1. Implementing a program that displays all the elements of a static array `recording minute 1:51:00`
 
