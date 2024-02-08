@@ -11,7 +11,7 @@ The repository contains the source code for the JS courses and the presented con
 4. Variables: let & var statements
 
 ## Course 02
-[Contents](hourse-02/readme.md)
+[Contents](course-02/readme.md)
 1. Git & github
 2. The IF statement - a binary decisional control structure
 3. Variables scopes
