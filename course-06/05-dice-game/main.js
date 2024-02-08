@@ -26,7 +26,7 @@ function sumDice(diceValues){
 
 function newRound(roundNumber) {
     console.log('');
-    console.log(` === 🎲🎲 ROUND ${roundNumber} STARTS 🎲🎲 === `);
+    console.log(`🚩🚩🚩 ROUND ${roundNumber} STARTS 🚩🚩🚩`);
     for (let i = 0; i < score.length; i++) {
         let roundScore = rollDice(6, 2);
         console.log(`Player ${i + 1} rolls ...`);
