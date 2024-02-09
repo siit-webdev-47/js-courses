@@ -32,7 +32,7 @@ The repository contains the source code for the JS courses and the presented con
 
 ## Course 05
 [Contents](course-05/readme.md)
-1. Using iterative flow control strucutures for reading values in a program
+1. Using iterative flow control structures for reading values in a program
 2. Arrays in JavaScript
 3. Implementing a program that allow the user to input a set of values and displays the ones greater than the average
 
