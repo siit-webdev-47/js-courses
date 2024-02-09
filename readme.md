@@ -35,3 +35,10 @@ The repository contains the source code for the JS courses and the presented con
 1. Using iterative flow control strucutures for reading values in a program
 2. Arrays in JavaScript
 3. Implementing a program that allow the user to input a set of values and displays the ones greater than the average
+
+## Course 06
+[Contents](course-06/readme.md)
+1. Primitive values in JS
+2. Functions in JS
+3. Implementing a dice game that simulates 10 dice throws for 3 players.
+
