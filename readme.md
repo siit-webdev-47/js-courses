@@ -42,3 +42,10 @@ The repository contains the source code for the JS courses and the presented con
 2. Functions in JS
 3. Implementing a dice game that simulates 10 dice throws for 3 players.
 
+## Course 07
+[Contents](course-07/readme.md)
+1. Github Classroom
+2. Flow control structures homework preparation
+3. Advanced function features in JavaScript
+4. Array iterative methods
+5. JSON & Arrays of objects
