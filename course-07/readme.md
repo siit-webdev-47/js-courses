@@ -35,5 +35,5 @@
 
 ## Video resources
 1. [Learn JavaScript VARIABLE SCOPE in 5 minutes!](https://youtu.be/KyqmbIkZGIo?si=6z3MwG04_neWOCWk)
-2. [JS Array Iterator Methods \| JavaScript Full Tutorial](https://youtu.be/yakPfS0asbk?si=DPCokvhNfRONmvop)
+2. [JS Array Iterator Methods - JavaScript Full Tutorial](https://youtu.be/yakPfS0asbk?si=DPCokvhNfRONmvop)
 3. [Learn JSON in 10 Minutes](https://youtu.be/iiADhChRriM?si=nNhHFaPj73ODAnSg)
