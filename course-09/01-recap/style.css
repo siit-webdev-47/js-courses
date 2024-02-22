@@ -1,0 +1,41 @@
+:root{
+    --sections-mb: 2rem;
+    --col-gap: 1rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.refresh{
+    text-align: center;
+    margin-bottom: var(--sections-mb);
+}
+
+.output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    column-gap: var(--col-gap);
+    margin-bottom: var(--sections-mb);
+}
+
+.number-display,
+.option {
+    font-size: 5rem;
+    width: 9rem;
+    height: 6rem;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.user-answer{
+    display: flex;
+    justify-content: center;
+    column-gap: var(--col-gap);
+}
+
+.option {
+    cursor: pointer;
+}

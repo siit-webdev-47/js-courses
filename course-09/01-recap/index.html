@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math game</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Math game</h1>
+
+        <div class="refresh">
+            <button onclick="newRound()">Generate numbers</button>
+        </div>
+
+        <div class="output">
+            <div id="nr-1" class="number-display"></div>
+
+            <div id="operation">+</div>
+
+            <div id="nr-2" class="number-display"></div>
+
+            <div>=</div>
+        </div>
+
+
+        <div class="user-answer">
+            <div class="option" onclick="choseOption(event)"></div>
+            <div class="option" onclick="choseOption(event)"></div>
+            <div class="option" onclick="choseOption(event)"></div>
+        </div>
+    </div>
+</body>
+</html>
