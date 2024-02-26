@@ -1,0 +1,41 @@
+.players-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.player {
+    height: 10rem;
+    aspect-ratio: 1;
+    border: 1px solid grey;
+    display: flex;
+    cursor: pointer;
+
+    /* to display the text in the midddle od the square */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.player-clicked-0{
+    background-color: teal;
+    color: white;
+}
+
+.player-clicked-1{
+    background-color: olive;
+    color: white;
+}
+
+.player-clicked-2{
+    background-color: darkred;
+    color: white;
+}
+
+.player-clicked-3{
+    background-color: bisque;
+    color: black;
+}
+
+.player span {
+    font-size: 2rem;
+}

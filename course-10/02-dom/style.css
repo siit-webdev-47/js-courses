@@ -1,0 +1,22 @@
+.players-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.player {
+    height: 10rem;
+    aspect-ratio: 1;
+    border: 5px solid grey;
+    border-radius: 15px;
+    display: flex;
+    cursor: pointer;
+
+    /* to display the text in the midddle od the square */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.player span {
+    font-size: 2rem;
+}
