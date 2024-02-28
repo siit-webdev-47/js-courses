@@ -49,3 +49,15 @@ The repository contains the source code for the JS courses and the presented con
 3. Advanced function features in JavaScript
 4. Array iterative methods
 5. JSON & Arrays of objects
+
+## Course 08
+[Contents](course-08/readme.md)
+1. Recap - array methods
+2. Recap - variables scope
+3. Arrow functions
+4. The DOM (Document Object Model)
+5. A simple example to showcase the DOM usage
+
+## Course 09
+
+## Course 10
