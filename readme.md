@@ -59,5 +59,8 @@ The repository contains the source code for the JS courses and the presented con
 5. A simple example to showcase the DOM usage
 
 ## Course 09
+[Contents](course-09/readme.md)
+1. Code review for a created JS Math operations calculation simple application
+2. Creating a JavaScript Math application 
 
 ## Course 10
