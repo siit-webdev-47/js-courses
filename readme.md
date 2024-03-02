@@ -64,3 +64,7 @@ The repository contains the source code for the JS courses and the presented con
 2. Creating a JavaScript Math application 
 
 ## Course 10
+[Contents](course-10/readme.md)
+1. Recap - DOM manipulation and events
+2. Recap - random color & color change pattern on click
+3. Dynamically add DOM elements & event listeners
