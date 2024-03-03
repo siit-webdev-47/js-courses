@@ -68,3 +68,9 @@ The repository contains the source code for the JS courses and the presented con
 1. Recap - DOM manipulation and events
 2. Recap - random color & color change pattern on click
 3. Dynamically add DOM elements & event listeners
+
+## Course 11
+[Contents](course-11/readme.md)
+1. Recap - Continue development of the Math application
+2. Asynchronous code in JavaScript
+3. Fetching data from an API
