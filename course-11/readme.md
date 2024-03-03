@@ -19,5 +19,5 @@
 4. Retrieving data from an API using fetch() - `Recording minute 2:33:09`
 
 ## Video resources
-1. [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ?si=HYCZfljzKz1RZ3Z8) - `26:52 minutes`
+1. [What the heck is the event loop anyway? Philip Roberts, JSConf EU](https://youtu.be/8aGhZQkoFbQ?si=HYCZfljzKz1RZ3Z8) - `26:52 minutes`
 2. [Fetch API - JavaScript Tutorial for beginners](https://youtu.be/ubw2hdQIl4E?si=bXoPb3LthgkQf_t_) - `30:49 minutes`
