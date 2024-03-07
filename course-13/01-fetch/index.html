@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+</head>
+
+<body>
+    <h1>Welcome</h1>
+    <div id="authentication">
+        <div>
+            <label for="auth-username">email:</label>
+            <input type="text" id="auth-username" value="test@test.com">
+            <div class="error" id="email-error"></div>
+        </div>
+        <div>
+            <label for="auth-password">password:</label>
+            <input type="password" id="auth-password" value="123456">
+            <div class="error" id="password-error"></div>
+        </div>
+        <div>
+            <button id="login-btn">Login</button>
+            <div class="error" id="auth-error"></div>
+        </div>
+    </div>
+</body>
+
+</html>
