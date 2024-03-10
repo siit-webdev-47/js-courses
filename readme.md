@@ -74,3 +74,9 @@ The repository contains the source code for the JS courses and the presented con
 1. Recap - Continue development of the Math application
 2. Asynchronous code in JavaScript
 3. Fetching data from an API
+
+## Course 12
+[Contents](course-12/readme.md)
+1. Recap - Fetch using the Chuck Norris API
+2. Fetch using other HTTP methods (POST)
+3. sing fetch and then for implementing asynchronous code
