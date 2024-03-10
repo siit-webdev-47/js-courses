@@ -79,4 +79,10 @@ The repository contains the source code for the JS courses and the presented con
 [Contents](course-12/readme.md)
 1. Recap - Fetch using the Chuck Norris API
 2. Fetch using other HTTP methods (POST)
-3. sing fetch and then for implementing asynchronous code
+3. Using fetch and then for implementing asynchronous code
+
+## Course 13
+[Contents](course-13/readme.md)
+1. Recap - Fetch 
+2. Implementing an authentication form
+3. OOP concepts in JavaScript
